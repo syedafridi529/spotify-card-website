@@ -1,7 +1,4 @@
 # My spotify-card-website
-# Spotify Card Website
-
-![Project Logo](url_to_your_logo.png)
 
 ## Description
 
